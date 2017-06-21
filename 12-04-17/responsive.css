@@ -1,0 +1,391 @@
+@media only screen and (max-width:767px){
+    .navbar-brand > img{
+        width: 150px;
+    }
+    .navbar-brand{
+        height: auto;
+    }
+    .navbar{
+        min-height: auto;
+    }
+    .custom-nav{
+        padding: 0 8px 8px;
+    }
+    .footer-col{
+        margin-bottom: 35px;
+    }
+    .service-section{
+        padding: 35px 0;
+    }
+    .footer-top{
+        padding: 30px 0 10px;
+    }
+    .footer-bottom p.text-right{
+        text-align: center;
+        margin-top: 5px;
+        line-height: 24px;
+    }
+    .info-section h4{
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .info-section{
+        padding: 25px 0;
+    }
+    .info-section h3{
+        font-size: 22px;
+        line-height: 35px;
+    }
+    .navbar-collapse{
+        border-width: 0 0 1px;
+        border-style: solid;
+        border-color: #484848;
+    }
+    .navbar-default{
+        background-color: rgba(0,0,0,0.5);
+    }
+    
+    .service-col{
+        margin-bottom: 20px;
+    }
+    .slides-content{
+        top: 25%;
+    }
+    .content-inner{
+        padding: 0 43px;
+    }
+    .content-inner >h1{
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .content-inner>p{
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .content-inner >h3{
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .btn-white{
+        padding: 6px 28px;
+    }
+    footer{
+        text-align: center;
+    }
+    .open-time >img{
+        margin: 0 auto;
+    }
+    .dinner-menu-wrapper{
+        padding: 30px 0;
+        margin: 0;
+    }
+    .tab-cell{
+        display: block;
+    }
+    .tab-cell>li{
+        display: inline-block;
+        width: 48%;
+    }
+    .tab-cell>li>a{
+        background: rgba(17,17,17,.8);
+        margin: 4px 3px;
+        padding: 10px 5px;
+        font-size: 13px;
+    }
+    .tab-cell>li>a:before{
+        display: none;
+    }
+    .tab-cell{
+        background: transparent;
+    }
+    .dinner-menu-wrapper .tab-content{
+        padding: 10px 0 40px;
+    }
+    .menu-title{
+        margin: 20px 0 10px;
+        font-size: 18px;
+    }
+    .mitem-name{
+        font-size: 14px;
+    }
+    .subpage-banner{
+        height: 400px;
+    }
+    .tab-cell>li>a img{
+        margin-top: -7px;
+    }
+    .grid-sizer,.grid-item { width:100%;}
+    .gutter-sizer { width:0%; }
+    .sbanner-inner >h1{
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .field-group{
+        margin-bottom: 15px;
+    }
+    .reservation-banner-inner >h2{
+        font-size: 34px;      
+        line-height: 40px;
+    }
+    .reservation-banner-inner >h1{
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .reservation-form-wrapper{
+        padding: 30px 0;
+    }
+    .reservation-inner >h4{
+        line-height: 26px;
+    }
+    .reservation-banner{
+        height: 250px;
+    }
+    .his-content{
+        position: static;
+        width: 100%;
+        padding: 20px 25px;
+        margin: 0 0 25px;
+    }
+    .about-us-wrapper{
+        padding: 30px 15px;
+    }
+    .our-history>img,.dining-exp-inner,.dining-exp-inner>img{
+        width: 100%;
+    }
+    .lg-title{
+        font-size: 26px;
+        font-weight: 400;
+        line-height: 40px;
+    }
+    .lg-title >span{
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .our-history{
+        margin: 0 -15px;
+    }
+    .dining-exp-wrapper{
+        padding: 10px 15px;
+    }
+    .dining-exp-wrapper >.container{
+        padding: 0;
+    }
+    .dining-exp-inner{
+        margin: 0 0 15px;
+    }
+    #slider{
+        height: 450px;
+    }
+    .icon-scroll{
+        display: none;
+    }
+    .event-row>div.event-thumb{
+        display: none;
+    }
+    .calendar-banner{
+        height: auto;
+        padding-top: 86px;
+    }
+    .cbanner-inner{
+        position: static;
+    }
+    .cbanner-inner .sbanner-inner,.event-section{
+        display: block;
+    }
+    .event-section{
+        padding:30px 0;
+    }
+    .event-desc{
+        padding: 25px;
+    }
+    .event-desc>p{
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .event-date{
+        padding: 20px;
+    }
+    .event-section .lg-title{
+        margin-bottom: 25px;
+    }
+    .owl-dots{
+        margin-top: 30px;
+    }
+    .contact-form .form-group{
+        margin-bottom: 0;
+    }
+    .contact-form .form-control{
+        margin: 0 0 15px;
+    }
+    .contact-head{
+        padding: 25px 0 15px;
+    }
+    .contact-head h3{
+        font-size: 19px;
+        letter-spacing: 0;
+        font-weight: 400;
+        margin-bottom: 15px;
+        line-height: 30px;
+    }
+    .map-responsive{
+        padding-bottom: 50%;
+    }
+    .gallery-sizer, .gallery-item{
+        width: 33.3333333%;
+    }
+    .gallery-wrapper{
+        margin: 30px 0;
+    }
+    .gallery-list>li>a{
+        font-size: 16px;
+        padding: 0 15px;
+    }
+    .head-section{
+        margin-bottom: 20px;
+    }
+    .gallery-wrapper .tab-content{
+        margin-top: 30px;
+    }
+	.calendar-section{padding:30px 0;}
+	.calendar-section h3{font-size:18px;line-height:30px;}
+	.calendar-section h4{font-size:15px;line-height:27px;color:#5f5f5f;margin-bottom:25px;}
+	.timely .ai1ec-btn-sm{padding:7px !important;}
+	.ai1ec-month-view .ai1ec-day-stretcher{height:50px !important;}
+	.ai1ec-month-view .ai1ec-date{padding:4px !important;}
+	.ai1ec-views-dropdown .ai1ec-dropdown-menu{min-width:auto !important;}
+	.single-event .ai1ec-event-details .ai1ec-col-sm-3{width:100%;}
+	.otw-input-wrap{width:100%;margin-bottom:10px;}
+}
+@media only screen and (min-width:320px) and (max-width:480px){
+    .service-section .col-xs-6{
+        width: 100%;
+    }
+    .service-col{
+        width: 280px;
+        margin: 0 auto 30px;
+    }
+    .gallery-sizer, .gallery-item{
+        width: 50%;
+    }
+}
+ 
+@media only screen and (min-width:768px) and (max-width:992px){
+    .grid-sizer, .grid-item{
+        padding: 0 20px;
+    }
+    .navbar-brand{
+        padding: 34px 10px;
+    }
+    .navbar-brand >img{
+        width: 160px;
+    }
+    .custom-nav>li + li>a{
+        margin-left: 5px;
+    }
+    .custom-nav>li:after{
+        display: none;
+    }
+    .custom-nav>li>a{
+        font-size: 12px;
+    }
+    .nav > li > a{
+        padding:6px 8px;
+    }
+    .service-col{
+        margin-bottom: 30px;
+    }
+    .tab-cell>li>a{
+        padding: 25px 8px;
+    }
+    .event-row>div.event-thumb{
+        display: none;
+    }
+    .w740{
+        width: 740px;
+    }
+	.single-event .ai1ec-event-details .ai1ec-col-sm-3{width:18%;}
+}
+
+@media only screen and (min-width:993px) and (max-width:1024px){
+   .navbar-brand{
+        padding: 30px 10px;
+    }
+    .navbar-brand >img{
+        width: 180px;
+    }
+    .custom-nav>li + li>a{
+        margin-left: 15px;
+    }
+    .custom-nav>li:after{
+        right: -10px;
+    }
+    .event-desc{
+        padding: 25px;
+    }
+    .event-desc>p{
+        font-size: 13px;
+        line-height: 21px;
+    }
+    .event-date{
+        padding: 20px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px){
+    .his-content{
+        position: static;
+        width: 100%;
+        padding: 40px;
+        margin: 0 0 30px;
+    }
+    .about-us-wrapper,.dining-exp-wrapper{
+        padding: 35px 15px;
+    }
+    .our-history>img,.dining-exp-inner,.dining-exp-inner>img{
+        width: 100%;
+    }
+    .our-history,.dining-exp-inner{
+        margin: 0 -15px;
+    }
+    .contact .dining-exp-inner{
+        width: 100%;
+    }
+    .contact-head{
+        padding: 40px 0 10px;
+    }
+    .bottom-link >a{
+        padding: 12px 25px;
+    }
+}
+@media only screen and (min-width:1025px) and (max-width:1200px){
+    .his-content{
+        width: 40%;
+        padding: 30px;
+        left: 40px;
+        top: 100px;
+    }
+    .lg-title{
+        font-size: 55px;
+    }
+    .navbar-brand{
+        padding: 30px 10px;
+    }
+    .navbar-brand >img{
+        width: 180px;
+    }
+    .custom-nav>li + li>a{
+        margin-left: 15px;
+    }
+    .custom-nav>li:after{
+        right: -10px;
+    }
+    .event-desc{
+        padding: 30px;
+    }
+    .event-date{
+        padding: 20px;
+    }
+    .dining-exp-wrapper .his-content.contact-form-wrapper{
+        top: 30px;
+    }
+}
